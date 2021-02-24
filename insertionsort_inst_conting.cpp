@@ -37,7 +37,7 @@ int main()
     int n,i ;
     int A[100];
 
-    printf("please enternumber of element to be entered: ");
+    printf("please enter number of element to be entered: ");
    scanf("%d",&n);
 
    printf("Enter %d elements: ", n);
@@ -51,3 +51,13 @@ int main()
 	return 0;
 }
 
+
+/*OUTPUT*/
+
+please enter number of element to be entered: 4
+Enter 4 elements: 5
+7
+6
+4
+4 5 6 7
+number of instrution executeed is 28
