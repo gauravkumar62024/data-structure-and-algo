@@ -31,3 +31,20 @@ int main()
   Linear_Search(arr,search);
   return 0;
 }
+
+/*OUTPUT*/
+
+Enter number of elements in array
+8
+Enter 8 integer(s)
+12
+23
+45
+56
+73
+1
+13
+21
+Enter a number to search
+21
+21 is present at index position 8.
