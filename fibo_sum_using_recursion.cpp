@@ -18,7 +18,7 @@ void fibo(int c)
 int main()
 {
 	int n;
-	printf("enter a num");
+	printf("enter a num=");
 	scanf("%d",&n);
 	switch (n)
 	{
@@ -35,3 +35,16 @@ int main()
 	}
 	return 0;
 }
+
+
+/*OUTPUT*/
+
+enter a num=7
+0
+1
+1
+2
+3
+5
+8
+sum of fibonacci series=20
