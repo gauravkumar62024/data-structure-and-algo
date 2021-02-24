@@ -36,3 +36,19 @@ int main()
     
 }
 
+
+/*OUTPUT*/
+
+enter a number for fibonacci=9
+0
+1
+1
+2
+3
+5
+8
+13
+21
+
+
+ Sum of all element in fibonacci series=  54
